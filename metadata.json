@@ -1,0 +1,9 @@
+{
+  "name": "Dhaka Traffic AI",
+  "description": "An intelligent traffic assistant for Dhaka city that analyzes text and map screenshots to predict jams and suggest routes, featuring the local persona Jhuma AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
